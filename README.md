@@ -45,6 +45,3 @@ In general, I always oblige myself to write the best practice and scalable code,
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
