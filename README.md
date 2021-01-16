@@ -28,9 +28,11 @@ In general, I always oblige myself to write the best practice and scalable code,
 </a>
 <a href="https://stackoverflow.com/users/2570054/sky" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>   
+<a href="https://t.me/sky93" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%233abcfb.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
