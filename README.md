@@ -3,7 +3,7 @@
 </div>  
   
 
-### I'm Sepehr (Means the sky ☁️), a developer based in Iran. I love learning new things and always curious about how things work and why they work this way. I liked computers since my childhood, and started programming from 2009 and continued it professionally since 2013. Since then, I've done so many small and big projects with many challenging things.
+### I'm Sepehr (Means the sky ☁️), a developer based in Turkey. I love learning new things and always curious about how things work and why they work this way. I liked computers since my childhood, and started programming from 2009 and continued it professionally since 2013. Since then, I've done so many small and big projects with many challenging things.
 
 My current specializations and interests are in developing frontend and also backend of websites.
 
